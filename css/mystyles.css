@@ -1,0 +1,11 @@
+.myfont{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:cornflowerblue
+}
+.mysubfont{
+    font font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myitalics{
+font-style: italic !important;
+}
